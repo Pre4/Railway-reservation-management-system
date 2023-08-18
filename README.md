@@ -1,2 +1,3 @@
 # Railway-reservation-management-system
 A comprehensive Railway Reservation Management System designed to streamline the ticket booking process for passengers and enhance the operational efficiency of railway authorities. This system allows users to search for train schedules, reserve seats, manage bookings, and make secure online payments. 
+The system incorporates user-friendly interfaces for both passengers and administrators, offering real-time seat availability updates and reporting tools to facilitate efficient management. Built with [programming languages/technologies], this project aims to provide a robust solution to the challenges of railway ticketing.
